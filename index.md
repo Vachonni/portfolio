@@ -2,22 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Coding
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chatbotwizz](http://github.com/Vachonni/ChatbotWiz)
+<img src="images/chatbot_thumbnail.png?raw=true"/>
+Interview project categorising chats
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Presenting
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

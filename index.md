@@ -5,8 +5,8 @@
 ### Coding
 
 [Chatbotwizz](http://github.com/Vachonni/ChatbotWiz)
-<img src="images/chatbot_thumbnail.png?raw=true"/>
 Interview project categorising chats
+<img src="images/chatbot_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

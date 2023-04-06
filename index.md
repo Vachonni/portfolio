@@ -2,9 +2,12 @@
 
 ---
 
-### Coding
+<!-- Create list with hanckers in the page -->
 
-[Chatbotwizz](http://github.com/Vachonni/ChatbotWiz)
+
+### Code
+
+[ChatbotWiz](http://github.com/Vachonni/ChatbotWiz)
 Interview project categorising chats
 <img src="images/chatbot_thumbnail.png?raw=true"/>
 
@@ -18,7 +21,7 @@ Interview project categorising chats
 
 ---
 
-### Presenting
+### Business
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -28,6 +31,13 @@ Interview project categorising chats
 
 ---
 
+### Academic
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 
 

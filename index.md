@@ -33,11 +33,14 @@ Interview project categorising chats
 
 ### Academic
 
-- [Reinforcement Learning DeppRL](pdf/Deep_Reinforcement_Learning__Cribbage.pdf)
+- [Reinforcement Learning - DeepRL](pdf/Deep_Reinforcement_Learning__Cribbage.pdf)
+
+  ![Alt text](images/CribbageDeepRL.png)
   How about a little game of cribbage? 
+
   This report our deep reinforcement learning project to train an agent to play cribbage.
-  Realized in the course of Doina Precup's Reinforcement Learning course at McGill University.
-  Doina Precup is now team leader at DeepMind. 
+
+  Realized in the course of Doina Precup's Reinforcement Learning course at McGill University. Doina Precup is now team leader at DeepMind. 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

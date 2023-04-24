@@ -30,7 +30,7 @@ Interview project categorising chats
 
 - [MLOps webinar](pdf/MLOps%20webinar.pdf)
 
-  Overview of MLOps practices with application in the Azure context.
+  Overview of MLOps practices with application in Azure.
 
 
 - [Project 3 Title](http://example.com/)
@@ -49,6 +49,15 @@ Interview project categorising chats
   This report our deep reinforcement learning project that trained an agent to play cribbage *better* than an average human
 
   Realized for Doina Precup's Reinforcement Learning course at McGill University. Doina Precup is also team leader at DeepMind. 
+
+- Conversational Recommendation - Listen before you talk
+
+  ![Alt text](images/ConvRecoModels.png)
+  
+  - [Paper RecSys 2020](pdf/Research%20Paper%20-%20RecSys%202020%20-%20Nicholas%20Vachon.pdf)
+
+  - [Master thesis](pdf/Master%20Thesis%20-%20Nicholas%20Vachon.pdf)
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

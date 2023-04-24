@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 ---
 
@@ -39,9 +39,9 @@ Interview project categorising chats
 
 ---
 
-### Academic
+## Academic
 
-- [Reinforcement Learning - DeepRL](pdf/Deep_Reinforcement_Learning__Cribbage.pdf)
+- ### [Reinforcement Learning - DeepRL](pdf/Deep_Reinforcement_Learning__Cribbage.pdf)
 
   ![Alt text](images/CribbageDeepRL.png)
   How about a little game of cribbage? 
@@ -50,7 +50,7 @@ Interview project categorising chats
 
   Realized for Doina Precup's Reinforcement Learning course at McGill University. Doina Precup is also team leader at DeepMind. 
 
-- Conversational Recommendation - Listen before you talk
+- ### Conversational Recommendation - Listen before you talk
 
   ![Alt text](images/ConvRecoModels.png)
   

@@ -23,9 +23,9 @@ Interview project categorising chats
 
 ### Business
 
-- [Introduction to NLP + Bert]((pdf/IntroNLP_Bert.pdf))
+- [Introduction to NLP + Bert](pdf/IntroNLP_Bert.pdf)
   
-  A brief history of NLP, embedding technics, modern models (RNN, attention, transformers, Bert) and examples of applications in finance. 
+  History of NLP, embedding technics, modern models (RNN, attention, transformers, Bert) and examples of applications in finance. 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

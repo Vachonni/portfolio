@@ -26,7 +26,13 @@ Interview project categorising chats
 - [Introduction to NLP + Bert](pdf/IntroNLP_Bert.pdf)
   
   History of NLP, embedding technics, modern models (RNN, attention, transformers, Bert) and examples of applications in finance. 
-- [Project 2 Title](http://example.com/)
+
+
+- [MLOps webinar](pdf/MLOps%20webinar.pdf)
+
+  Overview of MLOps practices with application in the Azure context.
+
+
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)

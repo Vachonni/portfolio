@@ -23,7 +23,9 @@ Interview project categorising chats
 
 ### Business
 
-- [Project 1 Title](http://example.com/)
+- [Introduction to NLP + Bert]((pdf/IntroNLP_Bert.pdf))
+  
+  A brief history of NLP, embedding technics, modern models (RNN, attention, transformers, Bert) and examples of applications in finance. 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -38,9 +40,9 @@ Interview project categorising chats
   ![Alt text](images/CribbageDeepRL.png)
   How about a little game of cribbage? 
 
-  This report our deep reinforcement learning project to train an agent to play cribbage.
+  This report our deep reinforcement learning project that trained an agent to play cribbage *better* than an average human
 
-  Realized in the course of Doina Precup's Reinforcement Learning course at McGill University. Doina Precup is now team leader at DeepMind. 
+  Realized for Doina Precup's Reinforcement Learning course at McGill University. Doina Precup is also team leader at DeepMind. 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

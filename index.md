@@ -50,7 +50,7 @@
 
   ![Alt text](images/ConvRecoModels.png)
 
-  [Paper RecSys 2020](pdf/Research%20Paper%20-%20RecSys%202020%20-%20Nicholas%20Vachon.pdf) - [Master thesis](pdf/Master%20Thesis%20-%20Nicholas%20Vachon.pdf)
+  [Paper RecSys 2020](pdf/Research%20Paper%20-%20RecSys%202020%20-%20Nicholas%20Vachon.pdf) --- [Master thesis](pdf/Master%20Thesis%20-%20Nicholas%20Vachon.pdf) --- [GitHub Repo](http://github.com/Vachonni/ReDial)
 
   Combination of recommender systems and conversational agents.
 

@@ -1,67 +1,68 @@
 # Portfolio
 
----
-
 <!-- Create list with hanckers in the page -->
 
 
-### Code
+## Code
 
-[ChatbotWiz](http://github.com/Vachonni/ChatbotWiz)
-Interview project categorising chats
-<img src="images/chatbot_thumbnail.png?raw=true"/>
+<br> 
+
+- ### ChatbotWiz
+
+  [GitHub Repo](http://github.com/Vachonni/ChatbotWiz)
+
+  Rounting of chat, including topic modeling. 
+  
+  Developped in Docker, with Hydra for configutation. Include PyTest.
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Business
 
----
+<br>
 
-### Business
+- ### Introduction to NLP + Bert
 
-- [Introduction to NLP + Bert](pdf/IntroNLP_Bert.pdf)
+  [Presentation](pdf/IntroNLP_Bert.pdf)
   
   History of NLP, embedding technics, modern models (RNN, attention, transformers, Bert) and examples of applications in finance. 
 
+<br>
 
-- [MLOps webinar](pdf/MLOps%20webinar.pdf)
+- ### MLOps webinar
 
-  Overview of MLOps practices with application in Azure.
+  [Presentation](pdf/MLOps%20webinar.pdf)
+
+  Overview of MLOps practices applied in Azure.
 
 
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
-## Academic
 
-- ### [Reinforcement Learning - DeepRL](pdf/Deep_Reinforcement_Learning__Cribbage.pdf)
+## Academic
+<br> 
+
+- ### Reinforcement Learning - DeepRL
 
   ![Alt text](images/CribbageDeepRL.png)
-  How about a little game of cribbage? 
 
-  This report our deep reinforcement learning project that trained an agent to play cribbage *better* than an average human
+  [Paper](pdf/Deep_Reinforcement_Learning__Cribbage.pdf) - [GitHub Repo](https://github.com/Vachonni/agent-cribbage)
+
+  Deep reinforcement learning project that trained an agent to play cribbage *better* than an average human
 
   Realized for Doina Precup's Reinforcement Learning course at McGill University. Doina Precup is also team leader at DeepMind. 
+
+<br><br>
 
 - ### Conversational Recommendation - Listen before you talk
 
   ![Alt text](images/ConvRecoModels.png)
-  
-  - [Paper RecSys 2020](pdf/Research%20Paper%20-%20RecSys%202020%20-%20Nicholas%20Vachon.pdf)
 
-  - [Master thesis](pdf/Master%20Thesis%20-%20Nicholas%20Vachon.pdf)
+  [Paper RecSys 2020](pdf/Research%20Paper%20-%20RecSys%202020%20-%20Nicholas%20Vachon.pdf) - [Master thesis](pdf/Master%20Thesis%20-%20Nicholas%20Vachon.pdf)
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+  Combination of recommender systems and conversational agents.
 
 
 

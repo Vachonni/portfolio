@@ -5,8 +5,6 @@
 
 ## Code
 
-<br> 
-
 - ### ChatbotWiz
 
   [GitHub Repo](http://github.com/Vachonni/ChatbotWiz)
@@ -20,15 +18,11 @@
 
 ## Business
 
-<br>
-
 - ### Introduction to NLP + Bert
 
   [Presentation](pdf/IntroNLP_Bert.pdf)
   
   History of NLP, embedding technics, modern models (RNN, attention, transformers, Bert) and examples of applications in finance. 
-
-<br>
 
 - ### MLOps webinar
 
@@ -37,12 +31,10 @@
   Overview of MLOps practices applied in Azure.
 
 
-
 ---
 
 
 ## Academic
-<br> 
 
 - ### Reinforcement Learning - DeepRL
 
@@ -53,8 +45,6 @@
   Deep reinforcement learning project that trained an agent to play cribbage *better* than an average human
 
   Realized for Doina Precup's Reinforcement Learning course at McGill University. Doina Precup is also team leader at DeepMind. 
-
-<br><br>
 
 - ### Conversational Recommendation - Listen before you talk
 

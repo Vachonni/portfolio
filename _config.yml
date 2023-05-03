@@ -1,7 +1,8 @@
 title: Nicholas Vachon # your name (or website title) here
 logo: "/images/KapacityKoldingZoom.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Machine Learning Engineer 
+  <br>
+  <b>Machine Learning Engineer</b>
   <br><br> 
   -  Specialised in Deep Learning and NLP
   <br>
@@ -10,6 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Business oriented
   <br><br>
   <a href="https://www.linkedin.com/in/vachonnicholas/">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://github.com/Vachonni">View My GitHub</a> 
   
 theme: jekyll-theme-minimal

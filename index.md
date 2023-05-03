@@ -11,7 +11,7 @@
 
   Rounting of chat, including topic modeling. 
   
-  Developped in Docker, with Hydra for configutation. Include PyTest.
+  Developped in Docker, with Hydra for configutation, includes PyTest.
 
 
 ---
